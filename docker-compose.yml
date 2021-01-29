@@ -1,0 +1,15 @@
+version: "3.5"
+
+networks:
+  app-tier:
+    driver: bridge
+
+services:
+  jcli:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: jcli
+    restart: always
+    networks: 
+      - app-tier

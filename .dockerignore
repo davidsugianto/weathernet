@@ -1,0 +1,6 @@
+virtualenv/
+*.egg-info/
+__pycache__/
+
+jcli/__pycache__/
+jcli/commands/__pycache__/

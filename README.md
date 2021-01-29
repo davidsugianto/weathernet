@@ -1,4 +1,5 @@
-## jcli
+\$ jcli\_
+==========
 
 jcli is a jogjacode CLI tools for automation using python and ansible
 
@@ -7,4 +8,3 @@ jcli is a jogjacode CLI tools for automation using python and ansible
 Installing and update `pip`_:
 
     $ pip install -U jcli
-

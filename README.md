@@ -1,4 +1,4 @@
-\$ jcli\_
+\$ weathernet\_
 ==========
 
 jcli is a jogjacode CLI tools for automation using python and ansible
